@@ -1,1 +1,1 @@
-localStorage;
+const funck =9;
